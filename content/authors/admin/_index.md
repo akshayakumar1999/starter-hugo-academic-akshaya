@@ -1,4 +1,5 @@
 ---
+avatar_filename: avatar.jpg
 bio: My research interests include cryptography, information security, and
   theoretical computer science.
 interests:
