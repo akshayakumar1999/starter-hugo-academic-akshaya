@@ -29,7 +29,7 @@ education:
       year: ""
     - course: BTech in Computer Science and Engineering
       institution: National Institute of Technology Calicut
-      year: 2015
+      year: 2020
 superuser: true
 last_name: Bighetti
 role: PhD Student
